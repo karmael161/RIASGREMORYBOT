@@ -16,10 +16,10 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
 global.github = process.env.GITHUB || "https://github.com/Toxic1239/RIASGREMORYBOT";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/c21ae479aab857b4f8006.jpg";
-global.devs = "2348086541281";
-global.sudo = process.env.SUDO || "2348086541281";
-global.owner = process.env.OWNER_NUMBER || "2348086541281";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/rVcLl4A.jpeg";
+global.devs = "237694722989";
+global.sudo = process.env.SUDO || "237694722989";
+global.owner = process.env.OWNER_NUMBER || "237694722989";
 global.style = process.env.STYLE || "1";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -27,7 +27,7 @@ global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
-global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/84a935261759d92084744.mp4";
+global.userImages = process.env.USER_IMAGES || "https://i.imgur.com/rVcLl4A.jpeg";
 global.waPresence = process.env.WAPRESENCE || "recording";
 global.readcmds = process.env.READ_COMMAND || "false";
 global.readmessage = process.env.READ_MESSAGE || "false";
@@ -42,7 +42,7 @@ global.scan = "https://riasgremorybot-xcqv.onrender.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "{"noiseKey":{"private":{"type":"Buffer","data":"WEUBALJHbEnkz3j+SOy6WC2+4CUN7aw+Sf46UF/Y81s="},"public":{"type":"Buffer","data":"9MSTC5svV3c1WGUnCVR5uycZEGoWDbFMjxCmlmk6QC0="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"uPiX61SGfRh8KxuhOK2MLN9Eh4I7/XMkNe2aLCPzS1E="},"public":{"type":"Buffer","data":"5sOYbBpRazawiwNDQ1Eu7WK1h/ggCSJEjXDFc8Xrsyo="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"+IjFONjFTwFd6WDaMUPjPbGVBKdYCygaIPrKJaoV0Ws="},"public":{"type":"Buffer","data":"89mMFit6X0O3fwoVdYwsoTxkWnqY814WrLPet0T47WI="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"SMg9ynhslJCKOc2Wbl0dVRxuaBfb3MRIPTMm81N8Gm4="},"public":{"type":"Buffer","data":"DNckEAYRqOtDWFdx2kTDm9zBJIPFfUjSSmxlSnbZkh0="}},"signature":{"type":"Buffer","data":"YHpiYgtHfE0iB9a4IH5pgd/Nm+6iJH+abU/eP6DFsHSXo+uNMH0v5PnYniJphMZlzW3yxhNGBLtAAzdoe11QjA=="},"keyId":1},"registrationId":86,"advSecretKey":"vcNmiWA9JJbI58t9GOVyIiEMD2k0iZlgQC22kVk8hkM=","processedHistoryMessages":[{"key":{"remoteJid":"237694722989@s.whatsapp.net","fromMe":true,"id":"E929177A25E00296C0C2D427662A280A"},"messageTimestamp":1729674518},{"key":{"remoteJid":"237694722989@s.whatsapp.net","fromMe":true,"id":"3C70CAF59A0C8F72C4E8DDE5E97288C6"},"messageTimestamp":1729674521}],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":1,"accountSettings":{"unarchiveChats":false},"deviceId":"PQBRzVPmTUuks248UeITPw","phoneId":"8c54617b-ef2f-4bdc-8cc2-7badabed7e03","identityId":{"type":"Buffer","data":"TVvwKwPZ+yfvJwTI/hjgW8ZBgbo="},"registered":true,"backupToken":{"type":"Buffer","data":"ux7Npum1Ovdj0FsnaKS2YQ7f7u8="},"registration":{},"pairingCode":"K6CJPXF8","me":{"id":"237694722989:7@s.whatsapp.net","lid":"110956705259734:7@lid","name":"𓆩ᬼ⃟𝑲𝑨𝑹𝑴𝑨𝑬𝑳⛃⃟༄ 亗𝐓𝐘𝐑𝐀𝐍𝐓亗࿐"},"account":{"details":"CLb2pv8FEIz64rgGGAQgACgA","accountSignatureKey":"GMGHbI5qKq8fS0uIMtQXHWS9B71/YbNp70FwRlnP+RQ=","accountSignature":"O4y6MrZTbhpkxeV1rddz9QO6Nge367+s8QJGlEhVbTNT0Z62EpoPcLknwq5rcKw/fLwndAG2rk8Oo+JSPt+GBg==","deviceSignature":"q+wri7p/7MFgFQHd6FLA8TDWQoV4D06kn/dGTU3sAJdo+shmVr0FQ3AxpoDs6Qi0eX5XOjFy7JUK8EVV5mrniw=="},"signalIdentities":[{"identifier":{"name":"237694722989:7@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BRjBh2yOaiqvH0tLiDLUFx1kvQe9f2Gzae9BcEZZz/kU"}}],"platform":"android","lastAccountSyncTimestamp":1729674512,"myAppStateKeyId":"AAAAAA8T"}"
 module.exports = {
   menu: process.env.MENU || "1",
   HANDLERS: process.env.PREFIX || ".",
@@ -51,8 +51,8 @@ module.exports = {
   caption: process.env.CAPTION || "𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗧𝗢𝗫𝗫𝗜𝗖 𝗕𝗢𝗬",
   author: process.env.PACK_AUTHER || "ᴛᴏxxɪᴄ ᴍᴅ",
   packname: process.env.PACK_NAME || "𝗥𝗜𝗔𝗦 𝗠𝗗",
-  botname: process.env.BOT_NAME || "𝗥𝗜𝗔𝗦 𝗚𝗥𝗘𝗠𝗢𝗥𝗬",
-  ownername: process.env.OWNER_NAME || "ᴛᴏxxɪᴄ",
+  botname: process.env.BOT_NAME || "L'ANGE DECHU ",
+  ownername: process.env.OWNER_NAME || "𝑲𝑨𝑹𝑴𝑨𝑬𝑳 𝑺𝑨𝑺𝑨𝑲𝑰",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
@@ -63,7 +63,7 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
   LANG: (process.env.THEME || "RIAS").toUpperCase(),
 };
 global.rank = "updated";
